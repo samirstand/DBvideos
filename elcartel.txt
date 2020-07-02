@@ -1,0 +1,97 @@
+#EXTINF:0 group-title="EL CARTEL DE LOS SAPOS" tvg-logo="http://158.69.24.110/posters/cFjaesBjRIUUN1tSRb5YyESyT4V.jpg",EL CARTEL DE LOS SAPOS TEMPORADA 1 CAPITULO 1
+https://stuffs.monitoresnegros.com/sab/sall/s/cr/ecds/temp1/1551816845.mp4
+#EXTINF:0 group-title="EL CARTEL DE LOS SAPOS" tvg-logo="http://158.69.24.110/posters/cFjaesBjRIUUN1tSRb5YyESyT4V.jpg",EL CARTEL DE LOS SAPOS TEMPORADA 1 CAPITULO 2
+https://stuffs.monitoresnegros.com/sab/sall/s/cr/ecds/temp1/3256503598.mp4
+#EXTINF:0 group-title="EL CARTEL DE LOS SAPOS" tvg-logo="http://158.69.24.110/posters/cFjaesBjRIUUN1tSRb5YyESyT4V.jpg",EL CARTEL DE LOS SAPOS TEMPORADA 1 CAPITULO 3
+https://stuffs.monitoresnegros.com/sab/sall/s/cr/ecds/temp1/3038608824.mp4
+#EXTINF:0 group-title="EL CARTEL DE LOS SAPOS" tvg-logo="http://158.69.24.110/posters/cFjaesBjRIUUN1tSRb5YyESyT4V.jpg",EL CARTEL DE LOS SAPOS TEMPORADA 1 CAPITULO 4
+https://stuffs.monitoresnegros.com/sab/sall/s/cr/ecds/temp1/739519490.mp4
+#EXTINF:0 group-title="EL CARTEL DE LOS SAPOS" tvg-logo="http://158.69.24.110/posters/cFjaesBjRIUUN1tSRb5YyESyT4V.jpg",EL CARTEL DE LOS SAPOS TEMPORADA 1 CAPITULO 5
+https://stuffs.monitoresnegros.com/sab/sall/s/cr/ecds/temp1/1527979156.mp4
+#EXTINF:0 group-title="EL CARTEL DE LOS SAPOS" tvg-logo="http://158.69.24.110/posters/cFjaesBjRIUUN1tSRb5YyESyT4V.jpg",EL CARTEL DE LOS SAPOS TEMPORADA 1 CAPITULO 6
+https://stuffs.monitoresnegros.com/sab/sall/s/cr/ecds/temp1/3417047301.mp4
+#EXTINF:0 group-title="EL CARTEL DE LOS SAPOS" tvg-logo="http://158.69.24.110/posters/cFjaesBjRIUUN1tSRb5YyESyT4V.jpg",EL CARTEL DE LOS SAPOS TEMPORADA 1 CAPITULO 7
+https://stuffs.monitoresnegros.com/sab/sall/s/cr/ecds/temp1/3165335955.mp4
+#EXTINF:0 group-title="EL CARTEL DE LOS SAPOS" tvg-logo="http://158.69.24.110/posters/cFjaesBjRIUUN1tSRb5YyESyT4V.jpg",EL CARTEL DE LOS SAPOS TEMPORADA 1 CAPITULO 8
+https://stuffs.monitoresnegros.com/sab/sall/s/cr/ecds/temp1/385059879.mp4
+#EXTINF:0 group-title="EL CARTEL DE LOS SAPOS" tvg-logo="http://158.69.24.110/posters/cFjaesBjRIUUN1tSRb5YyESyT4V.jpg",EL CARTEL DE LOS SAPOS TEMPORADA 1 CAPITULO 9
+https://stuffs.monitoresnegros.com/sab/sall/s/cr/ecds/temp1/1643429041.mp4
+#EXTINF:0 group-title="EL CARTEL DE LOS SAPOS" tvg-logo="http://158.69.24.110/posters/cFjaesBjRIUUN1tSRb5YyESyT4V.jpg",EL CARTEL DE LOS SAPOS TEMPORADA 1 CAPITULO 10
+https://stuffs.monitoresnegros.com/sab/sall/s/cr/ecds/temp1/4177390859.mp4
+#EXTINF:0 group-title="EL CARTEL DE LOS SAPOS" tvg-logo="http://158.69.24.110/posters/cFjaesBjRIUUN1tSRb5YyESyT4V.jpg",EL CARTEL DE LOS SAPOS TEMPORADA 1 CAPITULO 11
+https://stuffs.monitoresnegros.com/sab/sall/s/cr/ecds/temp1/2415582621.mp4
+#EXTINF:0 group-title="EL CARTEL DE LOS SAPOS" tvg-logo="http://158.69.24.110/posters/cFjaesBjRIUUN1tSRb5YyESyT4V.jpg",EL CARTEL DE LOS SAPOS TEMPORADA 1 CAPITULO 12
+https://stuffs.monitoresnegros.com/sab/sall/s/cr/ecds/temp1/295585854.mp4
+#EXTINF:0 group-title="EL CARTEL DE LOS SAPOS" tvg-logo="http://158.69.24.110/posters/cFjaesBjRIUUN1tSRb5YyESyT4V.jpg",EL CARTEL DE LOS SAPOS TEMPORADA 1 CAPITULO 13
+https://stuffs.monitoresnegros.com/sab/sall/s/cr/ecds/temp1/1721333928.mp4
+#EXTINF:0 group-title="EL CARTEL DE LOS SAPOS" tvg-logo="http://158.69.24.110/posters/cFjaesBjRIUUN1tSRb5YyESyT4V.jpg",EL CARTEL DE LOS SAPOS TEMPORADA 1 CAPITULO 14
+https://stuffs.monitoresnegros.com/sab/sall/s/cr/ecds/temp1/4287637778.mp4
+#EXTINF:0 group-title="EL CARTEL DE LOS SAPOS" tvg-logo="http://158.69.24.110/posters/cFjaesBjRIUUN1tSRb5YyESyT4V.jpg",EL CARTEL DE LOS SAPOS TEMPORADA 1 CAPITULO 15
+https://stuffs.monitoresnegros.com/sab/sall/s/cr/ecds/temp1/2291603844.mp4
+#EXTINF:0 group-title="EL CARTEL DE LOS SAPOS" tvg-logo="http://158.69.24.110/posters/cFjaesBjRIUUN1tSRb5YyESyT4V.jpg",EL CARTEL DE LOS SAPOS TEMPORADA 1 CAPITULO 16
+https://stuffs.monitoresnegros.com/sab/sall/s/cr/ecds/temp1/405275669.mp4
+#EXTINF:0 group-title="EL CARTEL DE LOS SAPOS" tvg-logo="http://158.69.24.110/posters/cFjaesBjRIUUN1tSRb5YyESyT4V.jpg",EL CARTEL DE LOS SAPOS TEMPORADA 1 CAPITULO 17
+https://stuffs.monitoresnegros.com/sab/sall/s/cr/ecds/temp1/1865364611.mp4
+#EXTINF:0 group-title="EL CARTEL DE LOS SAPOS" tvg-logo="http://158.69.24.110/posters/cFjaesBjRIUUN1tSRb5YyESyT4V.jpg",EL CARTEL DE LOS SAPOS TEMPORADA 1 CAPITULO 18
+https://stuffs.monitoresnegros.com/sab/sall/s/cr/ecds/temp1/266911078.mp4
+#EXTINF:0 group-title="EL CARTEL DE LOS SAPOS" tvg-logo="http://158.69.24.110/posters/cFjaesBjRIUUN1tSRb5YyESyT4V.jpg",EL CARTEL DE LOS SAPOS TEMPORADA 1 CAPITULO 19
+https://stuffs.monitoresnegros.com/sab/sall/s/cr/ecds/temp1/2028965360.mp4
+#EXTINF:0 group-title="EL CARTEL DE LOS SAPOS" tvg-logo="http://158.69.24.110/posters/cFjaesBjRIUUN1tSRb5YyESyT4V.jpg",EL CARTEL DE LOS SAPOS TEMPORADA 1 CAPITULO 20
+https://stuffs.monitoresnegros.com/sab/sall/s/cr/ecds/temp1/3790003274.mp4
+#EXTINF:0 group-title="EL CARTEL DE LOS SAPOS" tvg-logo="http://158.69.24.110/posters/cFjaesBjRIUUN1tSRb5YyESyT4V.jpg",EL CARTEL DE LOS SAPOS TEMPORADA 1 CAPITULO 21
+https://stuffs.monitoresnegros.com/sab/sall/s/cr/ecds/temp1/2531388636.mp4
+#EXTINF:0 group-title="EL CARTEL DE LOS SAPOS" tvg-logo="http://158.69.24.110/posters/cFjaesBjRIUUN1tSRb5YyESyT4V.jpg",EL CARTEL DE LOS SAPOS TEMPORADA 1 CAPITULO 22
+https://stuffs.monitoresnegros.com/sab/sall/s/cr/ecds/temp1/142965119.mp4
+#EXTINF:0 group-title="EL CARTEL DE LOS SAPOS" tvg-logo="http://158.69.24.110/posters/cFjaesBjRIUUN1tSRb5YyESyT4V.jpg",EL CARTEL DE LOS SAPOS TEMPORADA 1 CAPITULO 23
+https://stuffs.monitoresnegros.com/sab/sall/s/cr/ecds/temp1/2139245033.mp4
+#EXTINF:0 group-title="EL CARTEL DE LOS SAPOS" tvg-logo="http://158.69.24.110/posters/cFjaesBjRIUUN1tSRb5YyESyT4V.jpg",EL CARTEL DE LOS SAPOS TEMPORADA 1 CAPITULO 24
+https://stuffs.monitoresnegros.com/sab/sall/s/cr/ecds/temp1/3867875411.mp4
+#EXTINF:0 group-title="EL CARTEL DE LOS SAPOS" tvg-logo="http://158.69.24.110/posters/cFjaesBjRIUUN1tSRb5YyESyT4V.jpg",EL CARTEL DE LOS SAPOS TEMPORADA 1 CAPITULO 25
+https://stuffs.monitoresnegros.com/sab/sall/s/cr/ecds/temp1/2441881797.mp4
+#EXTINF:0 group-title="EL CARTEL DE LOS SAPOS" tvg-logo="http://158.69.24.110/posters/cFjaesBjRIUUN1tSRb5YyESyT4V.jpg",EL CARTEL DE LOS SAPOS TEMPORADA 1 CAPITULO 26
+https://stuffs.monitoresnegros.com/sab/sall/s/cr/ecds/temp1/20133204.mp4
+#EXTINF:0 group-title="EL CARTEL DE LOS SAPOS" tvg-logo="http://158.69.24.110/posters/cFjaesBjRIUUN1tSRb5YyESyT4V.jpg",EL CARTEL DE LOS SAPOS TEMPORADA 1 CAPITULO 27
+https://stuffs.monitoresnegros.com/sab/sall/s/cr/ecds/temp1/1983120834.mp4
+#EXTINF:0 group-title="EL CARTEL DE LOS SAPOS" tvg-logo="http://158.69.24.110/posters/cFjaesBjRIUUN1tSRb5YyESyT4V.jpg",EL CARTEL DE LOS SAPOS TEMPORADA 1 CAPITULO 28
+https://stuffs.monitoresnegros.com/sab/sall/s/cr/ecds/temp1/616951461.mp4
+#EXTINF:0 group-title="EL CARTEL DE LOS SAPOS" tvg-logo="http://158.69.24.110/posters/cFjaesBjRIUUN1tSRb5YyESyT4V.jpg",EL CARTEL DE LOS SAPOS TEMPORADA 1 CAPITULO 29
+https://stuffs.monitoresnegros.com/sab/sall/s/cr/ecds/temp1/1405279795.mp4
+#EXTINF:0 group-title="EL CARTEL DE LOS SAPOS" tvg-logo="http://158.69.24.110/posters/cFjaesBjRIUUN1tSRb5YyESyT4V.jpg",EL CARTEL DE LOS SAPOS TEMPORADA 1 CAPITULO 30
+https://stuffs.monitoresnegros.com/sab/sall/s/cr/ecds/temp1/3402338185.mp4
+#EXTINF:0 group-title="EL CARTEL DE LOS SAPOS" tvg-logo="http://158.69.24.110/posters/cFjaesBjRIUUN1tSRb5YyESyT4V.jpg",EL CARTEL DE LOS SAPOS TEMPORADA 1 CAPITULO 31
+https://stuffs.monitoresnegros.com/sab/sall/s/cr/ecds/temp1/3184312095.mp4
+#EXTINF:0 group-title="EL CARTEL DE LOS SAPOS" tvg-logo="http://158.69.24.110/posters/cFjaesBjRIUUN1tSRb5YyESyT4V.jpg",EL CARTEL DE LOS SAPOS TEMPORADA 1 CAPITULO 32
+https://stuffs.monitoresnegros.com/sab/sall/s/cr/ecds/temp1/598223548.mp4
+#EXTINF:0 group-title="EL CARTEL DE LOS SAPOS" tvg-logo="http://158.69.24.110/posters/cFjaesBjRIUUN1tSRb5YyESyT4V.jpg",EL CARTEL DE LOS SAPOS TEMPORADA 1 CAPITULO 33
+https://stuffs.monitoresnegros.com/sab/sall/s/cr/ecds/temp1/1420761642.mp4
+#EXTINF:0 group-title="EL CARTEL DE LOS SAPOS" tvg-logo="http://158.69.24.110/posters/cFjaesBjRIUUN1tSRb5YyESyT4V.jpg",EL CARTEL DE LOS SAPOS TEMPORADA 1 CAPITULO 34
+https://stuffs.monitoresnegros.com/sab/sall/s/cr/ecds/temp1/3450227600.mp4
+#EXTINF:0 group-title="EL CARTEL DE LOS SAPOS" tvg-logo="http://158.69.24.110/posters/cFjaesBjRIUUN1tSRb5YyESyT4V.jpg",EL CARTEL DE LOS SAPOS TEMPORADA 1 CAPITULO 35
+https://stuffs.monitoresnegros.com/sab/sall/s/cr/ecds/temp1/3131144966.mp4
+#EXTINF:0 group-title="EL CARTEL DE LOS SAPOS" tvg-logo="http://158.69.24.110/posters/cFjaesBjRIUUN1tSRb5YyESyT4V.jpg",EL CARTEL DE LOS SAPOS TEMPORADA 1 CAPITULO 36
+https://stuffs.monitoresnegros.com/sab/sall/s/cr/ecds/temp1/706635415.mp4
+#EXTINF:0 group-title="EL CARTEL DE LOS SAPOS" tvg-logo="http://158.69.24.110/posters/cFjaesBjRIUUN1tSRb5YyESyT4V.jpg",EL CARTEL DE LOS SAPOS TEMPORADA 1 CAPITULO 37
+https://stuffs.monitoresnegros.com/sab/sall/s/cr/ecds/temp1/1561941505.mp4
+#EXTINF:0 group-title="EL CARTEL DE LOS SAPOS" tvg-logo="http://158.69.24.110/posters/cFjaesBjRIUUN1tSRb5YyESyT4V.jpg",EL CARTEL DE LOS SAPOS TEMPORADA 1 CAPITULO 38
+https://stuffs.monitoresnegros.com/sab/sall/s/cr/ecds/temp1/1038016484.mp4
+#EXTINF:0 group-title="EL CARTEL DE LOS SAPOS" tvg-logo="http://158.69.24.110/posters/cFjaesBjRIUUN1tSRb5YyESyT4V.jpg",EL CARTEL DE LOS SAPOS TEMPORADA 1 CAPITULO 39
+https://stuffs.monitoresnegros.com/sab/sall/s/cr/ecds/temp1/1255796594.mp4
+#EXTINF:0 group-title="EL CARTEL DE LOS SAPOS" tvg-logo="http://158.69.24.110/posters/cFjaesBjRIUUN1tSRb5YyESyT4V.jpg",EL CARTEL DE LOS SAPOS TEMPORADA 1 CAPITULO 40
+https://stuffs.monitoresnegros.com/sab/sall/s/cr/ecds/temp1/3553672904.mp4
+#EXTINF:0 group-title="EL CARTEL DE LOS SAPOS" tvg-logo="http://158.69.24.110/posters/cFjaesBjRIUUN1tSRb5YyESyT4V.jpg",EL CARTEL DE LOS SAPOS TEMPORADA 1 CAPITULO 41
+https://stuffs.monitoresnegros.com/sab/sall/s/cr/ecds/temp1/2765590110.mp4
+#EXTINF:0 group-title="EL CARTEL DE LOS SAPOS" tvg-logo="http://158.69.24.110/posters/cFjaesBjRIUUN1tSRb5YyESyT4V.jpg",EL CARTEL DE LOS SAPOS TEMPORADA 1 CAPITULO 42
+https://stuffs.monitoresnegros.com/sab/sall/s/cr/ecds/temp1/984816637.mp4
+#EXTINF:0 group-title="EL CARTEL DE LOS SAPOS" tvg-logo="http://158.69.24.110/posters/cFjaesBjRIUUN1tSRb5YyESyT4V.jpg",EL CARTEL DE LOS SAPOS TEMPORADA 1 CAPITULO 43
+https://stuffs.monitoresnegros.com/sab/sall/s/cr/ecds/temp1/3354594037.mp4
+#EXTINF:0 group-title="EL CARTEL DE LOS SAPOS" tvg-logo="http://158.69.24.110/posters/cFjaesBjRIUUN1tSRb5YyESyT4V.jpg",EL CARTEL DE LOS SAPOS TEMPORADA 1 CAPITULO 44
+https://stuffs.monitoresnegros.com/sab/sall/s/cr/ecds/temp1/2968795747.mp4
+#EXTINF:0 group-title="EL CARTEL DE LOS SAPOS" tvg-logo="http://158.69.24.110/posters/cFjaesBjRIUUN1tSRb5YyESyT4V.jpg",EL CARTEL DE LOS SAPOS TEMPORADA 1 CAPITULO 45
+https://stuffs.monitoresnegros.com/sab/sall/s/cr/ecds/temp1/781234112.mp4
+#EXTINF:0 group-title="EL CARTEL DE LOS SAPOS" tvg-logo="http://158.69.24.110/posters/cFjaesBjRIUUN1tSRb5YyESyT4V.jpg",EL CARTEL DE LOS SAPOS TEMPORADA 1 CAPITULO 46
+https://stuffs.monitoresnegros.com/sab/sall/s/cr/ecds/temp1/1503108950.mp4
+#EXTINF:0 group-title="EL CARTEL DE LOS SAPOS" tvg-logo="http://158.69.24.110/posters/cFjaesBjRIUUN1tSRb5YyESyT4V.jpg",EL CARTEL DE LOS SAPOS TEMPORADA 1 CAPITULO 47
+https://stuffs.monitoresnegros.com/sab/sall/s/cr/ecds/temp1/3231633132.mp4
+#EXTINF:0 group-title="EL CARTEL DE LOS SAPOS" tvg-logo="http://158.69.24.110/posters/cFjaesBjRIUUN1tSRb5YyESyT4V.jpg",EL CARTEL DE LOS SAPOS TEMPORADA 1 CAPITULO 48
+https://stuffs.monitoresnegros.com/sab/sall/s/cr/ecds/temp1/3080322682.mp4
+#
